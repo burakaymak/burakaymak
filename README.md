@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakkaymak0/) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burakkaymak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakkaymak0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakdenizkaymak@gmail.com)
 
 </div>
 
