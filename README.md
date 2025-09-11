@@ -26,7 +26,7 @@
 <div align="center">
 
 ### 🖥️ Languages & Tools  
-<img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,css,javascript,mysql,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,html,css,javascript,mysql,git,github" /><br>
 
 </div>
 
