@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Burak 🤘🏻  
-### HSD Regional Leader at @Huawei | Computer Engineer  
+### HSD Regional Leader at @Huawei | Computer Engineering Student  
 
 ![Coding GIF](https://i.gifer.com/6vIk.gif)
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 ### 🖥️ Languages & Tools  
-<img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,html,css,javascript,mysql,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=swift,python,c,cpp,cs,html,css,javascript,firebase,postgres,git,github" /><br>
 
 </div>
 
