@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Burak 🤘🏻  
-### HSD Campus Ambassador at @Huawei | Computer Engineer  
+### HSD Regional Leader at @Huawei | Computer Engineer  
 
 ![Coding GIF](https://i.gifer.com/6vIk.gif)
 
